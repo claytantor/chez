@@ -1,6 +1,6 @@
 Chez Basic
 ================================
-
+Chez is a game system based on chess. It is intended to be the most print friendly printable chess set in the world.
 
 The King
 -------------------------
